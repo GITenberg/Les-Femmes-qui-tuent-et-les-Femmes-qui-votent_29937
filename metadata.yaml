@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/672
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_fils
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29937#Les-Femmes-qui-tuent-et-les-Femmes-qui-votent
 gutenberg_bookshelf: FR Politique
 gutenberg_issued: '2009-09-08'
 gutenberg_type: Text
