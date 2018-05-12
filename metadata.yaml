@@ -1,0 +1,31 @@
+_repo: Les-Femmes-qui-tuent-et-les-Femmes-qui-votent_29937
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas fils, Alexandre
+    - Dumas, A. (Alexandre)
+    birthdate: 1824
+    deathdate: 1895
+    gutenberg_agent_id: '672'
+    url: http://www.gutenberg.org/2009/agents/672
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_fils
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2009-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29937'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women''s rights'
+- !lcc 'HQ'
+title: Les Femmes qui tuent et les Femmes qui votent
+url: http://www.gutenberg.org/ebooks/29937
